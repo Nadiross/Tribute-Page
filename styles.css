@@ -1,0 +1,56 @@
+﻿main {
+    margin: 40px 5px;
+    padding: 30px 10px;
+    background-color: rgb(238,238,238);
+    border-radius: 20px;
+}
+h1 {
+    font-size: 3rem;
+    margin: 0 auto;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.title-description {
+    font-size: 1.2rem;
+    margin: 0 auto;
+    text-align: center;
+    letter-spacing: 4px;
+    font-family: Tahoma;
+}
+figure {
+    background-color: white;
+    margin: 20px 10px 5px;
+    padding: 20px 50px;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    height:auto;
+    margin: 0 auto;
+}
+#img-caption {
+    text-align: center;
+    margin: 10px auto 0;
+    font-size: 1.2em;
+}
+.time-line-title {
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+#time-line, .quote {
+    width: 40%;
+    margin: 10px auto;
+    font-size: 1.2em;
+}
+li {
+    margin-bottom: 10px;
+}
+span {
+    font-weight: 900;
+}
+.quotes-author {
+    margin-bottom: 50px;
+}
